@@ -1,0 +1,20 @@
+{
+  "name": "klipper-3d-skills",
+  "owner": {
+    "name": "Albert Fernández",
+    "email": "dev@nandez.cat"
+  },
+  "metadata": {
+    "description": "Klipper 3D printer firmware skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "klipper-3d",
+      "description": "Klipper 3D printer firmware reference — configuration, G-codes, calibration, and troubleshooting",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/klipper-3d"]
+    }
+  ]
+}
