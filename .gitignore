@@ -1,3 +1,8 @@
 .DS_Store
 *.pyc
 __pycache__/
+
+# agents
+.agents/
+.claude/
+skills-lock.json
