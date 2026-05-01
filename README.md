@@ -15,6 +15,14 @@ Reference skill for Klipper firmware covering:
 
 ## Installation
 
+### Via [skills.sh](https://skills.sh/)
+
+```bash
+npx skillsadd <your-github-username>/klipper-3d-skills/klipper-3d
+```
+
+### Via Claude Code plugin system
+
 Inside a Claude Code session, add this repo as a marketplace:
 
 ```
